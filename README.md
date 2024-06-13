@@ -1,5 +1,4 @@
-# Define the content of the README.md file
-readme_content = """
+
 # 2048 Game
 
 Este é um projeto do jogo 2048 desenvolvido em Java.
